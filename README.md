@@ -14,7 +14,7 @@ HireHaven is a full-featured Job Portal built using **PHP**, **MySQL**, **Bootst
 
 | Seeker Dashboard | Employer Dashboard | Admin Panel |
 |------------------|--------------------|-------------|
-| ![Seeker](seeker_dashboard.png) | ![Employer](employer_dashboard.png) | ![Admin](admin_dashboard.png) |
+| ![Seeker](seeker-dashboard.png) | ![Employer](employer-dashboard.png) | ![Admin](admin-dashboard.png) |
 
 ---
 
