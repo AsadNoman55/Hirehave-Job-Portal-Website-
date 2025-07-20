@@ -1,6 +1,6 @@
 # 💼 HireHaven – Complete Job Portal Website (PHP + MySQL)
 
-![HireHaven Banner](banner.png) <!-- Optional: Replace with actual banner image -->
+![HireHaven Banner](home.png) <!-- Optional: Replace with actual banner image -->
 
 HireHaven is a full-featured Job Portal built using **PHP**, **MySQL**, **Bootstrap**, and **JavaScript**. It allows job seekers to search and apply for jobs, while employers can post, manage, and review applications. Admins can oversee the entire platform. Ideal for learning web app development from scratch.
 
